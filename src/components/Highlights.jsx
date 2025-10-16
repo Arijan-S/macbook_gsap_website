@@ -36,8 +36,8 @@ const Highlights = () => {
           <div>
             <img src="/sun.png" alt="Sun" />
             <p>
-              A stunnning <br />
-              Luqid Retina XDR <br />
+              A stunning <br />
+              Liquid Retina XDR <br />
               display.
             </p>
           </div>
